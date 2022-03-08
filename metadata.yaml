@@ -1,0 +1,35 @@
+_repo: A-Woman-s-Quest-The-life-of-Marie-E-Zakrzewska-MD_67504
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zakrzewska, Marie E. (Marie Elizabeth)
+    alias: Zakrzewska, Marie Elizabeth
+    birthdate: 1829
+    deathdate: 1902
+    gutenberg_agent_id: '3913'
+    url: http://www.gutenberg.org/2009/agents/3913
+    wikipedia: https://en.wikipedia.org/wiki/Marie_Elizabeth_Zakrzewska
+  editor:
+    agent_name: Vietor, Agnes C.
+    gutenberg_agent_id: '54297'
+    url: http://www.gutenberg.org/2009/agents/54297
+description: ''
+gutenberg_issued: '2022-02-26'
+identifiers:
+  gutenberg: '67504'
+language: en
+pgterms:marc904: https://archive.org/details/56411390R.nlm.nih.gov/page/n9/mode/2up
+pgterms:marc905: 20200726073824zakrzewska
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :D. Appleton and Company,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A Woman''s Quest: The life of Marie E. Zakrzewska, M.D.'
+url: http://www.gutenberg.org/ebooks/67504
