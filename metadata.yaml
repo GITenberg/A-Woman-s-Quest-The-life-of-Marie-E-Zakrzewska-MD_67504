@@ -1,5 +1,8 @@
 _repo: A-Woman-s-Quest-The-life-of-Marie-E-Zakrzewska-MD_67504
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67504-h/images/cover.jpg
 creator:
   author:
     agent_name: Zakrzewska, Marie E. (Marie Elizabeth)
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '54297'
     url: http://www.gutenberg.org/2009/agents/54297
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67504#A-Woman-s-Quest-The-life-of-Marie-E-Zakrzewska-MD
 gutenberg_issued: '2022-02-26'
 identifiers:
   gutenberg: '67504'
